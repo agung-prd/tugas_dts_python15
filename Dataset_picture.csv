@@ -1,0 +1,5 @@
+src,name,dest,new_file,com,size,fr
+dts,loc.jpg,dts,loc1.jpg,resizer,150,
+dts,loc.jpg,dts,loc2.jpg,reducer,,128
+dts,loc.jpg,dts,loc3.jpg,reducer,,32
+dts,loc.jpg,dts,loc4.jpg,inverter,,
